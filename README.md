@@ -11,3 +11,7 @@ Introduces Simple function call
 ## anx2.go
 
 Introduces function with multiple return values
+
+## anx3.go
+
+Introduces Structs
