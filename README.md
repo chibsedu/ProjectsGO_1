@@ -19,3 +19,9 @@ Introduces Structs
 ## anx4.go
 
 Intoduces Pointers
+
+From Coolmaster Arco:
+
+$ git config --global user.name chibsedu
+
+$ git config --global user.email chibsedu@gmail.com
