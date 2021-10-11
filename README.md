@@ -29,3 +29,5 @@ $ git config --global user.email chibsedu@gmail.com
 Opened On Arco VSCode
 
 Synced Ubuntu
+
+Synced MINT
